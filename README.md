@@ -3,6 +3,9 @@
 An interactive interview preparation web application built with Python and Streamlit.
 
 The application helps students and job seekers practice interview questions, analyze their answers, and receive instant feedback.
+## 🚀 Live Demo
+
+[Try the AI Interview Preparation Assistant](https://ai-interview-preparation-assistant-bvhzhmerjgwnrvaxg8dryv.streamlit.app/)
 
 ## 🚀 Features
 
